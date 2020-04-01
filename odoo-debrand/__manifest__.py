@@ -31,7 +31,7 @@
     'maintainer': "Cybrosys Techno Solutions",
     'website': "https://cybrosys.com/",
     'category': 'Tools',
-    'depends': ['website', 'base_setup'],
+    'depends': ['base_setup'],
     'data': [
         'views/views.xml',
         'views/res_config_views.xml',
